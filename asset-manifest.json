@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-rater-app/static/css/main.e6c13ad2.css",
+    "main.js": "/the-rater-app/static/js/main.5b53163d.js",
+    "static/js/787.6f216ee9.chunk.js": "/the-rater-app/static/js/787.6f216ee9.chunk.js",
+    "index.html": "/the-rater-app/index.html",
+    "main.e6c13ad2.css.map": "/the-rater-app/static/css/main.e6c13ad2.css.map",
+    "main.5b53163d.js.map": "/the-rater-app/static/js/main.5b53163d.js.map",
+    "787.6f216ee9.chunk.js.map": "/the-rater-app/static/js/787.6f216ee9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5b53163d.js"
+  ]
+}
