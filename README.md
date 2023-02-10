@@ -1,3 +1,24 @@
+# theRATER
+
+This web-site is a tool to rate and keep track of the books, movies or series that you've read or watched.
+
+## Technologies:
+
+Framework: `React` (SPA, React Router)
+Typing: `Typescript`
+Styles: `Styled components`
+Store: `Local storage`
+
+## Functionality:
+
+1. Header. This is the place where you can see the logo (it leads to the main page) and the switcher to switch between light and dark theme.
+2. Main page. Here's all the records that you've create and the button to create a new one.
+3. Adding the record. The fields with labels to describe your experience. Every time you want to add a new record you'll see the basic template with 8 fields: title, author, rating, genre, year, description, cover (link), impression. The only field that's mandatory is Title. Note, that the field Cover (link) is the only field where you can place the link to the image and it'll be uploaded as a picture and not a plain text. It can be a book cover, a poster or anything else.
+4. Changing the template. You can customize the template, add or delete certain fields. After making changes you can save the current template to use again later. Also you can upload the template that you've saved earlier by clicking on the name of it.
+5. Record page. On the main page you'll see cards of the records you've created with partial information. To see full info click on the card. Also there are options of changing the record information and deleting it.
+
+All the information is stored in Local Storage, so it'll be saved after closing the tab or the browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
