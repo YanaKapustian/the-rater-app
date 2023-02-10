@@ -5,8 +5,11 @@ This web-site is a tool to rate and keep track of the books, movies or series th
 ## Technologies:
 
 Framework: `React` (SPA, React Router)
+
 Typing: `Typescript`
+
 Styles: `Styled components`
+
 Store: `Local storage`
 
 ## Functionality:
